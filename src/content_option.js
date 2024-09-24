@@ -1,42 +1,42 @@
-const logotext = "Ramprit Sahani";
+const logotext = "Ramprit";
 const meta = {
   title: "Ramprit Sahani",
   description:
-    "I am a senior full stack developer in React, Angular, Node.js, and Postgres",
+    "Experienced Full Stack Developer with 9 years of expertise in building and deploying scalable web applications. Proficient in modern web technologies such as React, TypeScript, Node.js, Nest.js, Next.js, PostgreSQL, MySQL, and more. Strong background in both frontend and backend development, with a focus on delivering high-quality, efficient code. Adept at working with teams to create user-friendly, responsive applications.",
 };
 
 const introdata = {
   title: "I’m Ramprit Sahani",
   animated: {
-    first: "I love coding",
-    second: "I code cool websites",
+    first: "Passionate about coding",
+    second: "I code cool websites with better UI/UX",
     third: "I develop mobile apps (Andriod and iOS)",
   },
   description:
-    "I am a senior full stack developer in React, Angular, Node.js, and Postgres",
+    "Experienced Full Stack Developer with 9 years of expertise in building and deploying scalable web applications. Proficient in modern web technologies such as React, TypeScript, Node.js, Nest.js, Next.js, PostgreSQL, MySQL, and more. Strong background in both frontend and backend development, with a focus on delivering high-quality, efficient code. Adept at working with teams to create user-friendly, responsive applications.",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
   title: "abit about my self",
   aboutme:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    "Experienced Full Stack Developer with 9 years of expertise in building and deploying scalable web applications. Proficient in modern web technologies such as React, TypeScript, Node.js, Nest.js, Next.js, PostgreSQL, MySQL, and more. Strong background in both frontend and backend development, with a focus on delivering high-quality, efficient code. Adept at working with teams to create user-friendly, responsive applications.",
 };
 const worktimeline = [
   {
-    jobtitle: "Designer of week",
-    where: "YAdfi",
+    jobtitle: "Senior Full Stack Developer",
+    where: "Mumbai, India",
+    date: "2024",
+  },
+  {
+    jobtitle: "Full Stack Developer",
+    where: "Mumbai, India",
+    date: "2021",
+  },
+  {
+    jobtitle: "Full Stack Developer",
+    where: "Mumbai, India",
     date: "2020",
-  },
-  {
-    jobtitle: "Designer of week",
-    where: "Jamalya",
-    date: "2019",
-  },
-  {
-    jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
   },
 ];
 
@@ -186,22 +186,18 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "name@domain.com",
-  YOUR_FONE: "(555)123-4567",
-  description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-  // creat an emailjs.com account
-  // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-  YOUR_SERVICE_ID: "service_id",
-  YOUR_TEMPLATE_ID: "template_id",
-  YOUR_USER_ID: "user_id",
+  YOUR_EMAIL: "ramprit.sahani@gmail.com",
+  YOUR_FONE: "+91 9867405720",
+  YOUR_SERVICE_ID: process.env.YOUR_SERVICE_ID,
+  YOUR_TEMPLATE_ID: process.env.YOUR_TEMPLATE_ID,
+  YOUR_USER_ID: process.env.YOUR_USER_ID,
 };
 
 const socialprofils = {
-  github: "https://github.com",
-  facebook: "https://facebook.com",
-  linkedin: "https://linkedin.com",
-  twitter: "https://twitter.com",
+  github: "https://github.com/rampritsahani",
+  facebook: "https://facebook.com/ramprits",
+  linkedin: "https://linkedin.com/in/ramprits",
+  twitter: "https://twitter.com/ramprits",
 };
 export {
   meta,
